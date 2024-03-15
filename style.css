@@ -12,5 +12,7 @@ header{display: flex;
     flex-wrap: wrap;
     align-content: stretch;
     justify-content: center;
+    
     .img-intro{
-        width: 30%;}
+        width: 30;
+        }
