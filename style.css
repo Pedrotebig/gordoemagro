@@ -19,3 +19,7 @@ header {
 .img-intro {
      width: 30%;
 }
+
+    .introducao {
+        display: flex;
+    }
