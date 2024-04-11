@@ -23,3 +23,12 @@ header {
     .introducao {
         display: flex;
     }
+
+    .equipe{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    
+    .foto-equipe{
+        width: 10%;
+    }
