@@ -34,5 +34,9 @@ header {
         width: 20%;
     }
     .GTA-San-Andreas {
-        display: ;
+        display: flex;
+    }
+    a{
+        color:#712f26;
+        text-decoration;:none
     }
