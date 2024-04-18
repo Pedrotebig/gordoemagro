@@ -38,5 +38,9 @@ header {
     }
     footer a{
         color:#4169e1;
-        text-decoration:none;
+        text-decoration: none;
+    }
+    header a{
+        color:#5C4033;
+        text-decoration: none;
     }
