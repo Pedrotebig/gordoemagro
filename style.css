@@ -24,7 +24,7 @@ header {
         display: flex;
     }
 
-    .equipe{
+    #equipe{
         display: grid;
         grid-template-columns: 50% 50%;
         text-align: center;
